@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.myinput {
+  border: none;
+ height: 4rem;
+ font-size: 1rem;
+ text-align: center;
+}
+
+.myinput:focus {
+  border: none;
+  outline: none !important;
+}
