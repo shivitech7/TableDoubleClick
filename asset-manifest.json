@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TableDoubleClick/static/css/main.2a9dd542.chunk.css",
+    "main.js": "/TableDoubleClick/static/js/main.ec8c5c58.chunk.js",
+    "main.js.map": "/TableDoubleClick/static/js/main.ec8c5c58.chunk.js.map",
+    "runtime-main.js": "/TableDoubleClick/static/js/runtime-main.de224c73.js",
+    "runtime-main.js.map": "/TableDoubleClick/static/js/runtime-main.de224c73.js.map",
+    "static/js/2.82ac9d00.chunk.js": "/TableDoubleClick/static/js/2.82ac9d00.chunk.js",
+    "static/js/2.82ac9d00.chunk.js.map": "/TableDoubleClick/static/js/2.82ac9d00.chunk.js.map",
+    "static/js/3.25e987be.chunk.js": "/TableDoubleClick/static/js/3.25e987be.chunk.js",
+    "static/js/3.25e987be.chunk.js.map": "/TableDoubleClick/static/js/3.25e987be.chunk.js.map",
+    "index.html": "/TableDoubleClick/index.html",
+    "static/css/main.2a9dd542.chunk.css.map": "/TableDoubleClick/static/css/main.2a9dd542.chunk.css.map",
+    "static/js/2.82ac9d00.chunk.js.LICENSE.txt": "/TableDoubleClick/static/js/2.82ac9d00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de224c73.js",
+    "static/js/2.82ac9d00.chunk.js",
+    "static/css/main.2a9dd542.chunk.css",
+    "static/js/main.ec8c5c58.chunk.js"
+  ]
+}
